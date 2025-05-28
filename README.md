@@ -20,5 +20,23 @@ A simple and responsive Weather App built using **JavaScript**, **HTML**, and **
 
 ### 1. Clone the repository
 
-```bash
+```
 git clone https://github.com/your-username/weather-app.git
+```
+
+### 2. Open the project 
+Navigate to the project and open `index.html` in your preferred web browser
+
+```
+cd 'Weather App'
+```
+
+Or you can use a local development server (like Live Server) for the best experience.
+
+[Enjoy the project!][1]
+
+[1]: https://veaceslavg.github.io/WeatherApp/
+
+---
+
+<div align=center>© 2025 VeaceslavG All rights reserved</div>
